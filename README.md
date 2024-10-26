@@ -1,7 +1,3 @@
-以下是一个简单的 `README.md` 文件模板，适用于前端使用 Vue、后端使用 Python Flask，并集成 GPT API 的项目。你可以根据实际项目的需求进一步补充细节。
-
----
-
 # MindScratch
 
 **MindScratch** is a project that leverages AI to assist students in learning programming. The front end is developed with Vue.js, and the back end is built using Python's Flask framework, with OpenAI's GPT API integrated for conversational assistance.
